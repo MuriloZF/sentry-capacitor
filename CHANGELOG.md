@@ -16,9 +16,9 @@
 
 ### Dependencies
 
-- Bump Cocoa SDK from v9.16.1 to v9.24.0 ([#1280](https://github.com/getsentry/sentry-capacitor/pull/1280))
-  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#9240)
-  - [diff](https://github.com/getsentry/sentry-cocoa/compare/9.16.1...9.24.0)
+- Bump Cocoa SDK from v9.16.1 to v9.27.0 ([#1280](https://github.com/getsentry/sentry-capacitor/pull/1280), [#3](https://github.com/MuriloZF/sentry-capacitor/pull/3))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#9270)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/9.16.1...9.27.0)
 
 ## 4.3.0
 
